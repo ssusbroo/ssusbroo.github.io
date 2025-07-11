@@ -1,1 +1,1 @@
-Cool
+This is a github page!
